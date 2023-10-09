@@ -19,4 +19,4 @@ Project uses **Julia**
 * data_set.csv - data set used in notebook, **NOT** the lake pollution data set used in project
 * funcions_GAN.csv - functions to create and train the GAN model (Julia)
 * functions_forecasting - functions to create forecasts using the generators (Julia)
-* **run_model.ipynb** - explanation of the RCGAN model, training the model using the data set and creating a GIF* (In Julia)
+* **run_model.ipynb** - explanation of the RCGAN model, training the model using the data set and creating a GIF* (Julia)
